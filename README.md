@@ -4,7 +4,7 @@ The repository contains the source code used by AGHSSO team during the ACROBAT c
 
 This is a minimal working example that produces the submission file for the competition and allows one to reproduce the results.
 
-The full framework containing the full source code, deep networks, training scripts, pretrained models, additional high-resolution nonrigid step, and convinient utility functions to deal with WSIs at full resolution - will be available soon at:  [DeeperHistReg](https://github.com/MWod/DeeperHistReg)
+The full framework containing the full source code, deep networks, training scripts, pretrained models, additional high-resolution nonrigid step, and onvenient utility functions to deal with WSIs at full resolution - will be available soon at:  [DeeperHistReg](https://github.com/MWod/DeeperHistReg)
 
 # ACROBAT Method Description
 
